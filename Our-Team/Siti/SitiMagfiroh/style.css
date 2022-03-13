@@ -1,0 +1,460 @@
+/* Style Universal */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@200;400;700&display=swap');
+
+/* ============== */
+/*  GLOBAL STYLES */
+/* ============== */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	font-family: Quicksand;
+  	margin: 0;
+   	padding: 0;
+}
+ 
+h2, h3 {
+   	color: #333;
+}
+
+a {
+	text-decoration: none;
+	font-size: .9rem;
+  	font-weight: bold;
+	color: #333;
+}
+
+li {
+	list-style: none;
+}
+
+/* ======================= */
+/* JUMBOTRON SECTION STYLES */
+/* ======================= */
+.jumbotron {
+  display: flex;
+  flex-direction: row;
+  padding: 180px 0 100px 0;
+  background-color: #E8EAE6;
+  height: 90vh;
+  color: #333;
+  text-align: left;
+}
+
+.jumbotron-left {
+	flex: 1;
+	order: 1;
+	margin: 0 auto;
+	padding: 1.2em;
+	font-size: 1.5rem;
+	letter-spacing: 5px;
+	margin-bottom: 10px;
+}
+
+.jumbotron-right {
+	flex: 1;
+	order: 2;
+	margin: 0 auto;
+}
+
+.jumbotron-right img {
+	width: 75%;
+}
+
+.blog {
+	font-family: 'Quicksand', sans-serif;
+	width: auto;
+	height: 2.5rem;
+	background-color: transparent;
+	border-radius: 5px;
+	border: 2px solid #333;
+}
+
+.blog a {
+	font-size: 1.5rem;
+	padding: 1rem;
+	color: #333;
+}
+
+/* ===================== */
+/* NAVBAR SECTION STYLES */
+/* ===================== */
+.top-nav {
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+  background-color: #E8EAE6; 
+  padding: .4rem 0;
+  top: 0;
+}
+
+.btn {
+	width: auto;
+	flex: 1;
+	order: 2;
+}
+
+.top-nav p {
+	flex: 4;
+	order: 1;
+	display: inline-block;
+	margin-left: 1.5em;
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+
+.btn-1 {
+	font-family: 'Quicksand', sans-serif;
+	margin-right: 1rem;
+}
+
+.btn-1 a {
+	color: #333;
+}
+
+.btn-2 {
+	font-family: 'Quicksand', sans-serif;
+	border: 0;
+	margin-right: .5em;
+}
+
+.btn-2 a {
+	color: #333;
+}
+
+/* Main Style */
+.main h2 {
+	padding-top: 10px;
+	text-align: center;
+}
+/* ======================= */
+/* ABOUT ME SECTION STYLES */
+/* ======================= */
+.about-me {
+	display: flex;
+	flex-direction: row;
+	/* padding: 1em; */
+	margin: 1.5em 5em 2em 5em;
+}
+
+.profile-picture {
+	flex: 1;
+	order: 1;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.profile-picture img {
+	width: 50%;
+	border-radius: 50%;
+	box-shadow: 0 0 7px 2px slategray;
+}
+
+.biography {
+	flex: 1;
+	order: 2;
+	margin: 2em auto;
+}
+
+/* Socmed Icons Style*/
+.socmed-icons p {
+	font-weight: bold;
+	font-size: 1.5rem;
+	/* margin: 0; */
+}
+
+.socmed-icons a {
+	/* vertical-align: bottom; */
+	display: inline-block;
+	margin: 0;
+}
+
+/* =========================== */
+/* CERTIFICATES SECTION STYLES */
+/* =========================== */
+.certificate {
+	padding: 10px;
+	margin-bottom: 20px;
+	/* background-color: #f2f2f2; */
+
+}
+
+.certificate-items {
+	display: flex;
+	flex-direction: row;
+}
+/* Featured Image Style */
+.featured-image {
+	width: 100%;
+	max-height: 350px;
+	object-fit: cover;
+	object-position: center;
+	box-shadow: 0 0 6px 3px #ddd;
+  }
+
+.item-1 {
+	border-radius: 5px;
+	padding: 1em;
+	margin-right: 10px;
+	flex: 1;
+	order: 1;
+}
+
+.item-2 {
+	border-radius: 5px;
+	padding: 1em;
+	margin-right: 10px;
+	flex: 1;
+	order: 2;
+}
+
+.item-3 {
+	border-radius: 5px;
+	padding: 1.3em;
+	flex: 1;
+	order: 3;
+}
+
+/* ===================== */
+/* SKILLS SECTION STYLES */
+/* ===================== */
+.skill {
+	background-image: url(img/email-pattern.png);
+	padding: 25px;
+}
+
+.skill-items {
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.frontend, .backend, .ui {
+	background-color: white;
+}
+
+.frontend {
+	border-radius: 5px;
+	border: 3px solid #333;
+	padding: 10px;
+	margin-right: 10px;
+	flex: 1;
+	order: 1;
+	font-weight: bold;
+}
+
+.backend {
+	border-radius: 5px;
+	border: 3px solid #333;
+	padding: 10px;
+	margin-right: 10px;
+	flex: 1;
+	order: 2;
+	font-weight: bold;
+}
+
+.ui {
+	border-radius: 5px;
+	border: 3px solid #333;
+	padding: 10px;
+	flex: 1;
+	order: 3;
+	font-weight:bold; 
+}
+
+/* Progress Bar */
+  
+  .progress {
+	background: #ddd;
+	justify-content: flex-start;
+	border-radius: 100px;
+	align-items: center;
+	position: relative;
+	padding: 0 5px;
+	display: flex;
+	height: 40px;
+	width: 100%;
+  }
+  
+  .progress-value-frontend, .progress-value-backend, .progress-value-ui {
+	animation: frontend 3s normal forwards;
+	/* box-shadow: 0 10px 40px -10px #333; */
+	box-shadow: 0 0 7px 2px slategray;
+	border-radius: 100px;
+	background: slategray;
+	color: #fff;
+	line-height: 30px;
+	height: 30px;
+	width: 0;
+  }
+  
+  @keyframes frontend {
+	0% { width: 0; }
+	100% { width: 80%; }
+  }
+
+  .progress-value-backend {
+	animation: backend 3s normal forwards;
+  }
+
+  @keyframes backend {
+	0% { width: 0; }
+	100% { width: 55%; }
+  }
+
+  .progress-value-ui {
+	  animation: ui 3s normal forwards;
+  }
+
+  @keyframes ui {
+	0% { width: 0; }
+	100% { width: 25%; }
+  }
+
+/* All Hover Effects */
+.contact a:hover, .contact a:active {
+	border-bottom: 1.5px solid #333;
+}
+
+.btn-1:hover, .btn-2:hover {
+  border-bottom: 2px solid #333;
+  transition: all .3s ease;
+}
+
+.blog:hover, .blog:active {
+	background-color: #333;
+	transition: all .4s ease;
+}
+
+.blog a:hover, .bloag a:active {
+	color: #fff;
+}
+
+.view:hover {
+	background-color: #333;
+	color: #fff;
+	border-radius: 7px;
+	padding: .8em;
+	transition: all .4s ease;
+}
+
+.frontend:hover, .backend:hover, .ui:hover {
+	transform: translateY(-10px);
+	transition: all .7s ease;
+}
+
+.item-1:hover, .item-2:hover, .item-3:hover  {
+	box-shadow: 0 0 8px 3px #000;
+	transition: all .5s ease;
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  padding: 10px;
+  overflow: auto;
+  background-color: #ddd;
+  font-size: .8rem;
+  text-align: center;
+  color: #333;
+  font-weight: bold;
+  border-bottom: .5rem solid #808080;
+}
+
+.footer a {
+	color: #333;
+}
+
+.footer a:hover {
+	transition: all .7s ease;
+	border-bottom: 3px solid #333;
+}
+
+.copy {
+	flex: 1;
+	order: 1;
+}
+
+.github {
+	flex: 1;
+	order: 3;
+}
+
+.top {
+	flex: 1;
+	order: 2;
+}
+
+/* Responsive Breakpoint */
+@media screen and (max-width: 960px) {
+	.jumbotron {
+		display: flex;
+		flex-direction: column;
+		padding: 1em;
+	}
+
+	.jumbotron-left {
+		flex: 1;
+		order: 2;
+	}
+
+	.jumbotron-right {
+		flex: 1;
+		order: 1;
+	}
+
+	.btn {
+		display: inline-flex;
+	}
+
+	.btn-2 {
+		margin-right: 1.2em;
+	}
+
+	.about-me, .skill-items, .certificate-items {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.certificate-items {
+		margin: 0 1.2em;
+	}
+
+	.skill-items, .portofolio {
+		margin-left: 1rem;
+	}
+
+	.saya {
+		margin-left: 2.2rem;
+	}
+
+	.frontend, .backend, .card-1, .card-2 {
+		margin-bottom: 20px;
+	}
+
+	.contact {
+		text-align: center;
+	}
+
+	.ui, .card-3 {
+		width: 98.35%;
+	}
+
+	.footer {
+		font-size: .74rem;
+	}
+
+	.github, .top {
+		display: none;
+	}
+
+}
