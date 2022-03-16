@@ -1,8 +1,8 @@
 # our-team
 FGA Class Group Tasks 1
 
-untuk mengakses web utama silahkan klik link ini 
-### Link
+untuk mengakses web utama silahkan klik dibawah ini
+### Link Utama
   | Our Team                        | Link                                                            |
   | --------------------------------| ----------------------------------------------------------------|
   | Our Teamn                       | https://triandi-ntx.github.io/A01 /                             |
