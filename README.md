@@ -7,10 +7,17 @@ untuk mengakses web utama silahkan klik link ini
   | --------------------------------| ----------------------------------------------------------------|
   | Our Teamn                       | https://triandi-ntx.github.io/A01 /                             |
 ### Team
-  | Nama                            | Link                                                            |
+  | Nama                            | Link  Portfolio                                                 |
   | --------------------------------| ----------------------------------------------------------------|
   | Triandi                         | https://triandi-ntx.github.io/A01/Our-Team/Andi/Triandi/        |
   | Siti Magfiroh                   | https://triandi-ntx.github.io/A01/Our-Team/Siti/SitiMagfiroh/   |
   | Yosef Florus Faa Feko           | https://triandi-ntx.github.io/A01/Our-Team/Yosef/Yosef%20Florus |
   | Wahyu Maulana                   | https://triandi-ntx.github.io/A01/Our-Team/Wahyu/wahyu/         | 
   | Sulthan Nur Hidayatullah        | https://triandi-ntx.github.io/A01/Our-Team/Sulthan/sulthan/     |
+  | Our Team                        | Link Kece                                         |
+  | --------------------------------| --------------------------------------------------|
+  | Triandi                         | https://triandi-ntx.github.io/A01/Our-Team/Andi   |
+  | Siti Magfiroh                   | https://triandi-ntx.github.io/A01/Our-Team/Siti   |
+  | Yosef Florus Faa Feko           | https://triandi-ntx.github.io/A01/Our-Team/Yosef  |
+  | Wahyu Maulana                   | https://triandi-ntx.github.io/A01/Our-Team/Wahyu  | 
+  | Sulthan Nur Hidayatullah        | https://triandi-ntx.github.io/A01/Our-Team/Sulthan |
