@@ -2,5 +2,12 @@
 FGA Class Group Tasks 1
 
 untuk mengakses web utama silahkan klik link ini 
-1.https://triandi-ntx.github.io/A01/Our-Team/Andi/Triandi/
-2. bisa juga klik salah satu nama lalu portfolio
+
+### Team
+  | Nama                            | Link                                                            |
+  | --------------------------------| ----------------------------------------------------------------|
+  | Triandi                         | https://triandi-ntx.github.io/A01/Our-Team/Andi/Triandi/        |
+  | Siti Magfiroh                   | https://triandi-ntx.github.io/A01/Our-Team/Siti/SitiMagfiroh/   |
+  | Yosef Florus Faa Feko           | https://triandi-ntx.github.io/A01/Our-Team/Yosef/Yosef%20Florus |
+  | Wahyu Maulana                   | https://triandi-ntx.github.io/A01/Our-Team/Wahyu/wahyu/         | 
+  | Sulthan Nur Hidayatullah        | https://triandi-ntx.github.io/A01/Our-Team/Sulthan/sulthan/     |
